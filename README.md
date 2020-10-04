@@ -1,4 +1,4 @@
-**!!! Forked from risentveber/prun because of the reason: missing ability to use pattern along with slashes "-" issde variable name. !!!**
+**!!! Forked from risentveber/prun repo because of the reason: missing ability to use pattern along with slashes "-" issde variable name. !!!**
 
 [![NPM](https://nodei.co/npm/prun.png)](https://npmjs.org/package/prun)
 
